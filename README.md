@@ -1,2 +1,4 @@
-# hello-world
-# basic read-me file
+hello-world
+===========
+
+Basic read-me file.
